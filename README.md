@@ -1,7 +1,7 @@
 # Updater-for-Ubuntu-Debian
 This script helps you to full-upgrade (update, upgrade and dist-upgrade) your system by entering your password.
 
-1) Install Zenity first in your system
+1) Install Zenity first in your system:
   sudo apt-get install zenity
   
 2) Download the update2.sh file from here.
